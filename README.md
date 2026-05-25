@@ -1,2 +1,3 @@
 # Merilnik-zvoka
-Projekt pri predmetu MRE.
+**Kratek opis**
+Odločila sva se, da bova izdelala merilnik zvoka.
