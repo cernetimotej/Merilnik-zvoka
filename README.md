@@ -10,7 +10,7 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-<img width="759" height="257" alt="image" src="https://github.com/user-attachments/assets/0cbb6438-5c3d-4680-9593-0d7e362d8f14" />
+[kosovnica](Kosovnica.png)
 
 
 
