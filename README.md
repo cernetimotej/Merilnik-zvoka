@@ -15,6 +15,8 @@ Slika vezja v programu Easy EDA
 <img width="783" height="576" alt="image" src="https://github.com/user-attachments/assets/864a2660-c366-4f80-8b7d-d14b04a7779f" />
 
 
+
+
 **Slike ohišja v programu Onshape**
 
 
@@ -24,6 +26,8 @@ Slika vezja v programu Easy EDA
 <img width="902" height="690" alt="image" src="https://github.com/user-attachments/assets/ecb300fc-2ab6-448f-bb88-b3acfec57ee9" />
 
 
+
+
 **Slike pokrova za ohišje v programu Onshape**
 
 
@@ -31,6 +35,8 @@ Slika vezja v programu Easy EDA
 
 
 <img width="741" height="528" alt="image" src="https://github.com/user-attachments/assets/a60f3946-9470-419c-9b5d-f790affb22d9" />
+
+
 
 
 **Video delovanja**
