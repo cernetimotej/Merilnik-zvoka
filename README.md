@@ -4,9 +4,14 @@
 Za nalogo sva izdelala merilnik zvoka z uporabo zvočnega senzorja KY-038, ki vsebuje kondenzatorski mikrofon za zaznavanje zvočnih valovov. Uporabila sva tudi mikrokrmilnik Arduino NANO.
 Merilnik deluje na principu znočnega senzorka KY-038, ki preko mikrofona zaznava zvočne valove, na to oddaja analogni signal, katerega ojačevalnik procesira in dobimo digita output.
 
-**Komponente**
+**Komponente in kosovnica**
 
 KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1x), Upor 22kE (1x), Ploščica za povezovanje (1x), Stikalo (1x), 9V baterija (1x) in priključek (1x).
+
+
+
+<img width="759" height="257" alt="image" src="https://github.com/user-attachments/assets/0cbb6438-5c3d-4680-9593-0d7e362d8f14" />
+
 
 
 Slika vezja v programu Easy EDA
