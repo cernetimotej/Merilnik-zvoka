@@ -4,14 +4,5 @@
 KY-038 Merilnik zvoka (1x) Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1x), Upor 22kE (1x), Ploščica za povezovanje (1x), Stikalo (1x), 9V baterija (1x) in priključek (1x).
 
 
-Št.	Ime:	Količina:	Opis naloge komponenta:
-1.	Arduino NANO	1x	Mikrokrmilnik uporabljen za to nalogo.
-2.	KY-038 Merilnik zvoka	1x	Merjenje zvočnih valov.
-3.	LCD zaslon	1x	Prikazovanje podatkov.
-4.	Potenciometer	1x	Za LCD zaslon.
-5.	Upor 22kE	1x	Za anodo.
-6.	Ploščica za povezovanje 	1x	Za povezovanje skupnih ground-ov in podobno.
-7.	Stikalo	1x	Za vklop/izklop merilnika.
-8.	9V baterija	1x	Vir napetosti.
-9.	Priključek	1x	Za povezavo med vezjem in virom.
+
 
