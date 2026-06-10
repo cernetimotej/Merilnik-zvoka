@@ -27,24 +27,21 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-**Slike ohišja v programu Onshape**
+**Slika ohišja v programu Onshape**
 
 
 <img width="810" height="525" alt="image" src="https://github.com/user-attachments/assets/7f71c189-be7f-4e89-9af2-52752e3ed8f6" />
 
 
-<img width="810" height="525" alt="image" src="https://github.com/user-attachments/assets/ecb300fc-2ab6-448f-bb88-b3acfec57ee9" />
 
 
 
-
-**Slike pokrova za ohišje v programu Onshape**
+**Slika pokrova za ohišje v programu Onshape**
 
 
 <img width="810" height="525" alt="image" src="https://github.com/user-attachments/assets/9e2a6ada-86de-4e1e-b16c-73979a433824" />
 
 
-<img width="810" height="525" alt="image" src="https://github.com/user-attachments/assets/a60f3946-9470-419c-9b5d-f790affb22d9" />
 
 
 
