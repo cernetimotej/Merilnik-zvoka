@@ -14,7 +14,7 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-# Slika vezja v programu Easy EDA**
+# Slika vezja v programu Easy EDA
 
 
 ![Vezava](Vezava.png)
@@ -25,7 +25,7 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-# Slika ohišja v programu Onshape**
+# Slika ohišja v programu Onshape
 
 
 <img width="810" height="525" alt="image" src="https://github.com/user-attachments/assets/7f71c189-be7f-4e89-9af2-52752e3ed8f6" />
