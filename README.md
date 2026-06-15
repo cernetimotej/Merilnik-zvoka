@@ -4,7 +4,7 @@
 Za nalogo sva izdelala merilnik zvoka z uporabo zvočnega senzorja KY-038, ki vsebuje kondenzatorski mikrofon za zaznavanje zvočnih valovov. Uporabila sva tudi mikrokrmilnik Arduino NANO.
 Merilnik deluje na principu znočnega senzorka KY-038, ki preko mikrofona zaznava zvočne valove, na to oddaja analogni signal, katerega ojačevalnik procesira in dobimo digita output.
 
-**Komponente in kosovnica**
+# Komponente in kosovnica
 
 KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1x), Upor 22kE (1x), Ploščica za povezovanje (1x), Stikalo (1x), 9V baterija (1x) in priključek (1x).
 
@@ -14,7 +14,7 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-**Slika vezja v programu Easy EDA**
+# Slika vezja v programu Easy EDA**
 
 
 ![Vezava](Vezava.png)
@@ -25,7 +25,7 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-**Slika ohišja v programu Onshape**
+# Slika ohišja v programu Onshape**
 
 
 <img width="810" height="525" alt="image" src="https://github.com/user-attachments/assets/7f71c189-be7f-4e89-9af2-52752e3ed8f6" />
@@ -34,7 +34,7 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-**Slika pokrova za ohišje v programu Onshape**
+# Slika pokrova za ohišje v programu Onshape**
 
 
 <img width="810" height="525" alt="image" src="https://github.com/user-attachments/assets/9e2a6ada-86de-4e1e-b16c-73979a433824" />
@@ -44,27 +44,27 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-**Video delovanja**
+# Video delovanja
 
 
-**Končne slike delovanja**
+# Končne slike delovanja
 
 
-**Komentar na delovanje**
+# Komentar na delovanje
 
 
-**Prednosti**
+# Prednosti
 
 
-**Omejitve**
+# Omejitve
 
 
-**Ocena natančnosti delovanja**
+# Ocena natančnosti delovanja
 
 
-**Primerjava**
+# Primerjava
 
 
-**Zaključek**
+# Zaključek
 
 
