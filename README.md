@@ -43,25 +43,20 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 
 
 
-
 # Video delovanja
 
 
 # Končne slike delovanja
 
 
-# Komentar na delovanje
-
-
-# Prednosti
-
-
-# Omejitve
-
-
 # Tabela meritev 
 
 
-# Zaključek
+# Komentar 
+
+
+
+
+# Možne izboljšave
 
 
