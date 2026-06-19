@@ -78,6 +78,14 @@ V šoli izdelana naprava ima povprečno odstopanje ±3,99 dB ter omejitev pri 18
 
 
 
+# Zaključek 
+
+
+
+Pri tej projekni nalogi sma se z izdelavo naučila, kako deluje merilnik hrupa. Poleg tega sva tudi uspešno naredila ohišje in vezavo vezja. Merilnik prikazuje vrednosti na LCD zaslonu. Projektno nalogo sva si poskusila zagotoviti čim ceneje. Tako sva večino kosov sposodila od sošolcev. Zaradi tega je bila najina projetkna naloga cenovno kar ugodna. Nekaj napak se je pojavljalo pri kodi, sploh pri enačbi za izračun hrupa. Imela je veliko oblik in različic, ampak sva končno priša do pravega programa.
+
+
+
 # Možne izboljšave
 
 
