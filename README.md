@@ -91,6 +91,6 @@ Pri tej projekni nalogi sma se z izdelavo naučila, kako deluje merilnik hrupa. 
 
 - Druga pozicija merilnika zvoka
 - Uporaba dejanske referenčne naprave
-- 
-
+- Boljša različica ohišja
+- Lahko bi naredila boljše stike pri spajkanju
 
