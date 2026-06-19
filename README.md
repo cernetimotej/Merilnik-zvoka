@@ -46,17 +46,43 @@ KY-038 Merilnik zvoka (1x), Arduino NANO (1x), LCD zaslon (1x), Potenciometer (1
 # Video delovanja
 
 
+
+https://github.com/user-attachments/assets/a67a9703-8960-41f6-a9c3-827bbacc960b
+
+
+
+
 # Končne slike delovanja
 
 
+
+<img width="810" height="525" alt="Snapchat-705074615" src="https://github.com/user-attachments/assets/c66c92a8-940e-4da0-aa3d-a84d4626f3b9" />
+<img width="810" height="525" alt="Snapchat-1764481491" src="https://github.com/user-attachments/assets/485fbe04-ee32-4dbe-92b9-6429b38b79d0" />
+
+
+
 # A-test (tabela meritev)
+
+
+
+<img width="810" height="525" alt="a-test" src="https://github.com/user-attachments/assets/0817463b-99d8-4eea-829f-2158b7f3c960" />
+
+
 
 
 # Komentar 
 
 
 
+V šoli izdelana naprava ima povprečno odstopanje ±3,99 dB ter omejitev pri 180 dB.
+
+
 
 # Možne izboljšave
+
+
+- Druga pozicija merilnika zvoka
+- Uporaba dejanske referenčne naprave
+- 
 
 
